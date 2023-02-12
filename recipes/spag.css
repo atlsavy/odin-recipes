@@ -1,0 +1,13 @@
+body{
+    background-color: #096d9f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h3{
+    color: whitesmoke;
+}
+
+img{
+    height: auto;
+    width: 550px;
+}
